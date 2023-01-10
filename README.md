@@ -1,1 +1,2 @@
-# Lung_nodules
+# Lung_nodule_detection 
+Final year project
